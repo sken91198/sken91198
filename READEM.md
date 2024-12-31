@@ -1,6 +1,6 @@
 <div align="center">
-  <h4>Suicided In Social</h4>
+  <h1>Suicided In Social</h1>
 <br>
   <div align="cneter">
-    <h2>= Using Languages =</h2>
+    <h3>= Using Languages =</h3>
 </div>
